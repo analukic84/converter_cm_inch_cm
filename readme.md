@@ -12,4 +12,4 @@ Requires Python 3. I have used 3.7 while making it.
 
 1. Clone the repository (going to a terminal and run `git clone https://github.com/analukic84/converter_cm_inch_cm.git`.
 2. Create a virtual environment for the repository (run `virtualenv --python=python3.7 venv`)
-3. Install Tkinter third library for graphical interface
+3. App uses Tkinter built-in library for graphical interface
