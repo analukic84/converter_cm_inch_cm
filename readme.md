@@ -6,7 +6,7 @@ What converter does?
 Coverter convertes Centimeter to inch and Inch to centimeters. Uses for only integers.
 
 
-# Installation
+## Installation
 
 Requires Python 3. I have used 3.7 while making it.
 
